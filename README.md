@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jglobo
-- 👀 I’m interested in software development, Data Analytics and in general coding!
+- 👀 I’m interested in Software Development, Data Analytics and in general coding!
 - 🌱 My programing languages: HTML, CSS, JavaScript, Python, SQL and C++
 - 💞️ I’m looking to collaborate on any projects out there, specially if they are games!
 - 📫 How to reach me is by my email: jgl2j@yahoo.com
